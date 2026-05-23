@@ -112,7 +112,7 @@ chess-steganography/
 ### 1. O'rnatish
 
 ```bash
-git clone https://github.com/username/chess-steganography.git
+git clone https://github.com/al1sher-hp/chess-steganography.git
 cd chess-steganography
 pip install -r requirements.txt
 ```
