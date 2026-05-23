@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PGN files to ignore
+test_hello.pgn
+secret_game.pgn
+
+# Scripts to ignore
+validate_notebook.py
