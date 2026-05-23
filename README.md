@@ -195,4 +195,4 @@ MIT License — erkin foydalanish, o'zgartirish va tarqatish mumkin.
 
 ---
 
-*Nusratov Alisher — 2025*
+*Nusratov Alisher — 2026*
